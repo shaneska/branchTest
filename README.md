@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1 
 2
  
@@ -10,3 +11,6 @@
 4
 
 
+=======
+hihihihi SHPADOINKLE!
+>>>>>>> edebb7996ce72ba39347e9f0026dfe728b317a7b
